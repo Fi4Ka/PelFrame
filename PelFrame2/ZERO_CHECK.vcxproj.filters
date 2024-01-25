@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\source\repos\PelFrame2\PelFrame2\CMakeFiles\70b2205cbe767d9fb37dcef3df837144\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{84B9B48B-4911-3F7F-BB50-88A002024AB3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

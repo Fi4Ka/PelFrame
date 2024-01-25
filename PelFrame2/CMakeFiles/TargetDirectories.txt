@@ -1,0 +1,3 @@
+C:/Users/User/source/repos/PelFrame2/PelFrame2/CMakeFiles/PelFrame2.dir
+C:/Users/User/source/repos/PelFrame2/PelFrame2/CMakeFiles/ALL_BUILD.dir
+C:/Users/User/source/repos/PelFrame2/PelFrame2/CMakeFiles/ZERO_CHECK.dir
